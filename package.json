@@ -1,0 +1,23 @@
+{
+  "name": "muaverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ali-sanad/fake-star-wars-name": "^1.0.1",
+    "anonynamer": "^1.1.2",
+    "ethers": "^6.7.1",
+    "fake-identity": "^1.0.6",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "readline-sync": "^1.4.10"
+  }
+}
